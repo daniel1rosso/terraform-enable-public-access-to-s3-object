@@ -1,0 +1,1 @@
+# terraform-enable-public-access-to-s3-object
